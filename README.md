@@ -42,21 +42,21 @@
 
 ## 🛠 使用技術
 - Unity
+- C#
+- C++
 - Python
 - OpenCV
-- C++
 - Arduino
+- m5stack
 
 ---
 
 ## 📸 スクリーンショット
-![image](画像URL)
 
 ---
 
 ## 🚀 活動内容
-- 〇〇の研究
-- ハッカソン参加
+
 - インタラクティブ展示制作
 
 ---
@@ -68,6 +68,3 @@
 - Twitter: https://twitter.com/xxxx
 
 ---
-
-## 📜 License
-この組織のプロジェクトは〇〇ライセンスです。
