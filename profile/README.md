@@ -19,7 +19,7 @@
 |------|------|--------|
 | 太田　拓海 | リーダー・ゲームシステム| https://github.com/otakumi-bekon |
 | shiruku-shibata | 組み込みシステム | https://github.com/shiruku-shibata |
-| Niimi | インフラ・ゲームシステム | https://github.com/shiruku-shibata |
+| Niimi | インフラ・ゲームシステム | https://github.com/ToB213 |
 | SHU144 | デザイン | https://github.com/SHU144 |
 | Taketani Shinjirou | デザイン | https://github.com/chiroru-taketani |
 
