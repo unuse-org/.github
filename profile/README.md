@@ -17,7 +17,7 @@
 ## 🧑‍💻 メンバー
 | 名前 | 主な役割 | GitHub |
 |------|------|--------|
-| 太田　拓海 | リーダー・ゲームシステム| https://github.com/otakumi-bekon |
+| 太田　拓海 | 代表・ゲームシステム| https://github.com/otakumi-bekon |
 | shiruku-shibata | 組み込みシステム | https://github.com/shiruku-shibata |
 | Niimi | インフラ・ゲームシステム | https://github.com/ToB213 |
 | SHU144 | デザイン | https://github.com/SHU144 |
