@@ -96,6 +96,14 @@
 - イベントURL : https://digigame-expo.org/
 - ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cinema)
 ---
+# 2025
+- イベント名 : 「BitSummit」
+- 出展ゲーム ： 「乾杯の音頭は破壊から」
+- イベントURL : https://bitsummit.org/2026/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cheers-starts-with-destruction)
+
+---
+
 ## 📫 Contact
 連絡先やSNSなど
 
