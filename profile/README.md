@@ -38,7 +38,7 @@
 
 
 ### 乾杯の音頭は破壊から
-[https://github.com/organization/repository](https://github.com/unuse-org/cheers-starts-with-destruction)
+🔗 [https://github.com/organization/repository](https://github.com/unuse-org/cheers-starts-with-destruction)
   <img width="451" height="801" alt="スクリーンショット 2026-06-08 18 28 05" src="https://github.com/user-attachments/assets/0e2e692c-401a-4259-ac4b-2ef667151a1d" />
 
 ---
